@@ -35,6 +35,13 @@ Su objetivo es mostrar lo que se puede lograr con KMP creando un **inventario si
 - JDK 11.  
 
 ---
+## 📸 Screenshots
+
+### Desktop
+<img src="screenshots/screenshot_1.png" alt="Vista previa" width="300"/>
+<img src="screenshots/screenshot_2.png" alt="Vista inventario App" width="500"/>
+<img src="screenshots/screenshot_3.png" alt="Vista ventas inventario App" width="500"/>
+
 
 ## ▶️ Cómo ejecutar
 
