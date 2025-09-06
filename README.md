@@ -52,5 +52,5 @@ Su objetivo es mostrar lo que se puede lograr con KMP creando un **inventario si
    cd Inventario-KMP
 
 
-   ## 👨‍💻 Autor
+ ## 👨‍💻 Autor
 Desarrollado por **Johan Estiven Mosquera Ipuz** como proyecto de práctica con Kotlin Multiplatform.
